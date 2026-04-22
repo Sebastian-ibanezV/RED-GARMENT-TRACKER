@@ -6,7 +6,7 @@ Este proyecto implementa un sistema de seguimiento (tracking) de alta precisión
 ---
 
 ## Demostración en Video
-[![Mira el funcionamiento en YouTube](https://img.youtube.com/vi/TU_VIDEO_ID/0.jpg)](TU_LINK_DE_YOUTUBE_AQUI)
+[![Mira el funcionamiento en YouTube](https://img.youtube.com/vi/TU_VIDEO_ID/0.jpg)](https://youtu.be/CwFZJvDF1Zw)
 *Haz clic en la imagen para ver el sistema en acción.*
 
 ---
