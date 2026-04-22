@@ -12,7 +12,7 @@ Este proyecto implementa un sistema de seguimiento (tracking) de alta precisión
 ---
 
 ## Estructura del Sistema
-![Estructura del Pan-Tilt](RUTA_A_TU_IMAGEN_AQUI)
+![Estructura del Pan-Tilt](assets/pantilt.jpeg)
 
 ---
 
