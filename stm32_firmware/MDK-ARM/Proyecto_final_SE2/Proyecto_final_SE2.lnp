@@ -1,0 +1,26 @@
+--cpu=Cortex-M4.fp.sp
+"proyecto_final_se2\startup_stm32f401xe.o"
+"proyecto_final_se2\main.o"
+"proyecto_final_se2\stm32f4xx_it.o"
+"proyecto_final_se2\stm32f4xx_hal_msp.o"
+"proyecto_final_se2\stm32f4xx_hal_tim.o"
+"proyecto_final_se2\stm32f4xx_hal_tim_ex.o"
+"proyecto_final_se2\stm32f4xx_hal_rcc.o"
+"proyecto_final_se2\stm32f4xx_hal_rcc_ex.o"
+"proyecto_final_se2\stm32f4xx_hal_flash.o"
+"proyecto_final_se2\stm32f4xx_hal_flash_ex.o"
+"proyecto_final_se2\stm32f4xx_hal_flash_ramfunc.o"
+"proyecto_final_se2\stm32f4xx_hal_gpio.o"
+"proyecto_final_se2\stm32f4xx_hal_dma_ex.o"
+"proyecto_final_se2\stm32f4xx_hal_dma.o"
+"proyecto_final_se2\stm32f4xx_hal_pwr.o"
+"proyecto_final_se2\stm32f4xx_hal_pwr_ex.o"
+"proyecto_final_se2\stm32f4xx_hal_cortex.o"
+"proyecto_final_se2\stm32f4xx_hal.o"
+"proyecto_final_se2\stm32f4xx_hal_exti.o"
+"proyecto_final_se2\stm32f4xx_hal_uart.o"
+"proyecto_final_se2\system_stm32f4xx.o"
+--strict --scatter "Proyecto_final_SE2\Proyecto_final_SE2.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "Proyecto_final_SE2.map" -o Proyecto_final_SE2\Proyecto_final_SE2.axf
